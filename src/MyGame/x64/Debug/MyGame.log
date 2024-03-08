@@ -1,0 +1,69 @@
+﻿  Astar.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.cpp(22,133): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Database.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\UI.h(24,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(37,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Database.h(28,2): warning C4091: “static ”: 没有声明变量时忽略“GAMESYSTEM”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Database.cpp(514,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Dishes.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\UI.h(24,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Dishes.cpp(22,56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  MyGame.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\UI.h(24,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(37,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Database.h(28,2): warning C4091: “static ”: 没有声明变量时忽略“GAMESYSTEM”的左侧
+  PlayerInformation.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\UI.h(24,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\PlayerInformation.h(37,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+  ScreenUnit.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+  Tools.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Tools.cpp(45,15): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  UI.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\ScreenUnit.h(17,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\UI.h(24,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+  正在生成代码...
+  InputUnit.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(80,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(81,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(90,18): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“double”
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(90,18): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“double”
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(116,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(117,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(139,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.cpp(140,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Model.cpp
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\InputUnit.h(31,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(107,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(118,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(211,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(322,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(333,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\个人资源\代码项目\dr-restaurant\src\MyGame\Model.cpp(521,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MyGame.vcxproj -> E:\个人资源\代码项目\dr-restaurant\src\x64\Debug\MyGame.exe

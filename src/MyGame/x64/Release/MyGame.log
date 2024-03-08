@@ -1,0 +1,72 @@
+﻿  Astar.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.cpp(22,133): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Database.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\UI.h(25,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(40,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Database.h(28,2): warning C4091: “static ”: 没有声明变量时忽略“GAMESYSTEM”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Database.cpp(515,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Dishes.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\UI.h(25,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Dishes.cpp(22,56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  MyGame.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\UI.h(25,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(40,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Database.h(28,2): warning C4091: “static ”: 没有声明变量时忽略“GAMESYSTEM”的左侧
+  PlayerInformation.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\UI.h(25,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Dishes.h(52,2): warning C4091: “static ”: 没有声明变量时忽略“Bag”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“PlayerInformation”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\PlayerInformation.h(40,2): warning C4091: “static ”: 没有声明变量时忽略“CPU”的左侧
+  ScreenUnit.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+  Tools.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Tools.cpp(45,15): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  UI.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\ScreenUnit.h(19,2): warning C4091: “static ”: 没有声明变量时忽略“ScreenUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\UI.h(25,2): warning C4091: “static ”: 没有声明变量时忽略“UI”的左侧
+  InputUnit.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(80,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(81,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(90,18): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“double”
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(90,18): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“double”
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(116,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(117,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(139,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.cpp(140,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Model.cpp
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\InputUnit.h(33,2): warning C4091: “static ”: 没有声明变量时忽略“MouseInputUnit”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Astar.h(64,2): warning C4091: “static ”: 没有声明变量时忽略“Movablemap”的左侧
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(108,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(119,52): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(212,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(323,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(334,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\MyGame\Model.cpp(522,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1235 of 1252 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    114 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MyGame.vcxproj -> C:\Users\86166\Desktop\实训\叶达杭软件3班实训项目\源代码\华工学子创业记\x64\Release\MyGame.exe
