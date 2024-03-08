@@ -7,7 +7,7 @@
 
 ----
 
-游戏名为：梦想的餐厅，模拟经营类游戏.
+游戏名为：梦想的餐厅。模拟经营类游戏.
 
 在不能引入任何高度封装的**第三方外部库**的比赛要求下，通过**纯C++代码**的命令行实现具有高清流畅的**字符**画面显示的Windows**控制台命令窗口**游戏。
 
@@ -19,13 +19,13 @@
 
 #### **游戏玩法、内容结构图**
 
-<img src="assets/image-20240308160427648.png" alt="image-20240308160427648" style="zoom:67%;" />
+<img src="assets/image-20240308160427648.png" alt="image-20240308160427648" style="zoom:50%;" />
 
 
 
 #### **游戏框架**
 
-​	<img src="assets/image-20240308160503235.png" alt="image-20240308160503235" style="zoom:67%;" />					
+​	<img src="assets/image-20240308160503235.png" alt="image-20240308160503235" style="zoom:50%;" />					
 
 #### UI展示
 
@@ -34,12 +34,12 @@
         <td><div><center>	<!--每个格子内是图片加标题-->
         	<img src="assets/image-20240308161451397.png"
                  alt="Typora-Logo"
-                 height="350"/>	<!--高度设置-->
+                 height="300"/>	<!--高度设置-->
         </center></div></td>    
      	<td><div><center>	<!--第二张图片-->
     		<img src="assets/image-20240308161538964.png"
                  alt="Typora-Logo"
-                 height="350"/>	
+                 height="300"/>	
         </center></div></td>
 	</tr>
 </table></div>
